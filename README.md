@@ -15,3 +15,5 @@ http://www.recantha.co.uk/blog/?p=16052
 Site for Mycroft assistant software
 
 https://github.com/MycroftAI
+
+https://github.com/deeplocal/mocktailsmixer - This is based on Google Assistant - cocktail dispenser but bits could be useful
